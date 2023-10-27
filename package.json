@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/small-definition-gzbbp.figma-tokens-lo8c53ge",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve BmfvGjOC2PGRD11OagWB --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
